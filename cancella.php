@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title> Cacellazione Prodotto oooo </title>
+	<title> Cacellazione Prodotto </title>
 
 </head>
 
