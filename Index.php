@@ -1,4 +1,4 @@
-	<?php include "db.php"; 
+<?php include "db.php"; 
 		
 	?>
 
@@ -6,7 +6,7 @@
 <html lang="it-IT">
 <head> 
 	<title>
-		Applicazione 1
+		Applicazione 1 - prova
 	</title>
 	
 </head>
